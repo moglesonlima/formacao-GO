@@ -172,7 +172,7 @@ func verificaArquivoSites() {
 	arquivo, err := os.Open("sites.txt")
 
 	if err != nil {
-		fmt.Println("Arquivo não encontrado, criando arquivo sites.txt...")
+		fmt.Println("Arquivo de sites não encontrado, criando arquivo sites.txt...")
 		criaArquivoSites()
 	}
 

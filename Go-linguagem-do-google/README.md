@@ -28,3 +28,4 @@ Curso introdutório aos principios e conceitos básicos da linguagem Go. Será r
 + Registro de logs acerca da disponibilidade dos sites monitorados;
 + Listagem de sites Monitorados;
 + Adição de sites para serem monitorados;
++ Criação de arquivo padrão de sites monitorados;
